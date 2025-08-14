@@ -1,3 +1,7 @@
+ Vercel
+  
+https://vercel.com/lucasfrancos-projects-b7b679a2/challenge-amigo-secreto-pt
+
 Descrição
 Atividade da etapa Iniciante em Programação G9 da Oracle Next Education (ONE).
 
@@ -21,3 +25,5 @@ Tecnologias utilizadas
 - HTML5
 - CSS3
 - JavaScript
+  
+ 
